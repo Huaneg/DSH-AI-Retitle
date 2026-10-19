@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "AI 重命名对话",
+    "description": "在每个对话行上加一个按钮，按整段对话重新生成标题；同时提供 /retitle 命令与 retitle_conversation 工具。"
+  }
+}

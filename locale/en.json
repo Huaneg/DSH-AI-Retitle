@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "AI Retitle",
+    "description": "Adds a button to every conversation row that rewrites its title from the whole conversation, plus the /retitle command and the retitle_conversation tool."
+  }
+}

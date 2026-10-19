@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="AI Retitle">
+  <defs>
+    <linearGradient id="ai-retitle-bg" x1="6" y1="2" x2="58" y2="62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3b6ef6"/>
+      <stop offset="1" stop-color="#7b4dff"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#ai-retitle-bg)"/>
+  <path d="M27 13 L31.2 24.8 L43 29 L31.2 33.2 L27 45 L22.8 33.2 L11 29 L22.8 24.8 Z" fill="#ffffff"/>
+  <path d="M44.5 35.5 L46.1 39.9 L50.5 41.5 L46.1 43.1 L44.5 47.5 L42.9 43.1 L38.5 41.5 L42.9 39.9 Z" fill="#ffffff" fill-opacity="0.82"/>
+</svg>
